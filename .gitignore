@@ -1,0 +1,8 @@
+venv
+tests
+__pycache__
+.ipynb_checkpoints
+data
+*.pyc
+*.ipynb
+*.todo

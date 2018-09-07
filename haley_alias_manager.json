@@ -1,0 +1,7 @@
+{
+  "name": "haley_alias_manager",
+  "description": "A manager for your online identities that allows you to login easily by autofilling forms.",
+  "path": "F:\\Coding\\Current\\Netsec\\HaleyAliasManager\\desktop\\HaleyAliasManager.bat",
+  "type": "stdio",
+  "allowed_extensions": [ "haley_alias_manager@gmail.com" ]
+}
